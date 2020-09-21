@@ -161,7 +161,7 @@ Markdown 支持有序列表和无序列表。
 
 列表嵌套只需在子列表中的选项前面添加四个空格即可：  
 
-![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)
+![](http://static.runoob.com/images/runoob-logo.png)
   
   
 
