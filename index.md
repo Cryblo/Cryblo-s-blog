@@ -104,7 +104,7 @@ Markdown 脚注的格式如下:
 
 创建脚注格式类似这样 [^JIAOZHU]。
 
-[^JIAOZHU]: 这是一个脚注  
+[^JIAOZHU]: 这是一个脚注。  
  
 
 
