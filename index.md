@@ -70,14 +70,18 @@ Markdown 可以使用以下几种字体:
 ### 删除线   
 如果段落上的文字要添加删除线，只需要在文字的两端加上两个波浪线 ~~ 即可，实例如下： 
 
-RUNOOB.COM
-GOOGLE.COM
+RUNOOB.COM  
+
+GOOGLE.COM  
+
 \~~BAIDU.COM~~  
 
 显示效果如下：  
 
 RUNOOB.COM
+
 GOOGLE.COM
+
 ~~BAIDU.COM~~
 
 
