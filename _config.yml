@@ -8,3 +8,11 @@ menu:
   resources: /resources/ || download   #资源
   schedule: /schedule/ || calendar    #日历
   
+# Sidebar Avatar
+avatar:
+  # Replace the default image and set the url here.
+  url: /images/avatar.gif   #图片的位置，也可以是http://xxx.com/avatar.png
+  # If true, the avatar will be dispalyed in circle.
+  rounded: true   #头像展示在圈里
+  # If true, the avatar will be rotated with the cursor.
+  rotated: false  #头像随光标旋转
