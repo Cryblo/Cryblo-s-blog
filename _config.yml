@@ -1,1 +1,10 @@
 theme: jekyll-theme-minimal
+menu:
+  home: / || home                      #首页
+  archives: /archives/ || archive      #归档
+  categories: /categories/ || th       #分类
+  tags: /tags/ || tags                 #标签
+  about: /about/ || user               #关于
+  resources: /resources/ || download   #资源
+  schedule: /schedule/ || calendar    #日历
+  
